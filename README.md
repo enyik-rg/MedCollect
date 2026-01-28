@@ -1,0 +1,2 @@
+# MedCollect
+MedCollect egészségügyi álhírkorpusz
